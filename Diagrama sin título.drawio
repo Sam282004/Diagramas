@@ -1,6 +1,6 @@
-<mxfile modified="2023-10-14T13:07:49.888Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="FfqXCK-hjbqUTuXlsebw" version="22.0.4" type="github">
+<mxfile modified="2023-10-21T18:04:30.324Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="gwvPAnNwQlutkun7uqR8" version="22.0.6" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
-    <mxGraphModel dx="1581" dy="318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3211" dy="858" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -260,14 +260,17 @@
         <mxCell id="r2uhDX--aKMSl8eKAtMT-66" value="&lt;b&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Gabarito&quot; style=&quot;font-size: 36px; background-color: rgb(212, 225, 245);&quot;&gt;CONTROL DE VERSIONES:&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;fontFamily=Gabarito;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DGabarito;" parent="1" vertex="1">
           <mxGeometry x="970" y="221.5" width="590" height="73.5" as="geometry" />
         </mxCell>
-        <mxCell id="gGFVUuUhRTXFIsX20U5o-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-images-1.medium.com/max/914/1*iYJgfYgxDWBcfWjl1twsag.png;" vertex="1" parent="1">
+        <mxCell id="gGFVUuUhRTXFIsX20U5o-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-images-1.medium.com/max/914/1*iYJgfYgxDWBcfWjl1twsag.png;" parent="1" vertex="1">
           <mxGeometry x="420" y="550.63" width="180" height="94.5" as="geometry" />
         </mxCell>
-        <mxCell id="gGFVUuUhRTXFIsX20U5o-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.developerscloset.com/wp-content/uploads/2018/06/azure-catalog-download.png;" vertex="1" parent="1">
+        <mxCell id="gGFVUuUhRTXFIsX20U5o-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.developerscloset.com/wp-content/uploads/2018/06/azure-catalog-download.png;" parent="1" vertex="1">
           <mxGeometry x="-105.88999999999999" y="757.12" width="125.89" height="66.09" as="geometry" />
         </mxCell>
-        <mxCell id="gGFVUuUhRTXFIsX20U5o-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://o.remove.bg/downloads/26993f3d-b2b6-4d8b-a636-d0f8ecfcd6c4/image-removebg-preview.png;" vertex="1" parent="1">
+        <mxCell id="gGFVUuUhRTXFIsX20U5o-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://o.remove.bg/downloads/26993f3d-b2b6-4d8b-a636-d0f8ecfcd6c4/image-removebg-preview.png;" parent="1" vertex="1">
           <mxGeometry x="111.67" y="749.75" width="74.75" height="74.75" as="geometry" />
+        </mxCell>
+        <mxCell id="yaTXPRP52YfWKpIcvq-i-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://o.remove.bg/downloads/015ab22d-4872-4d44-9997-dafd88e915f0/image-removebg-preview.png;" vertex="1" parent="1">
+          <mxGeometry x="100.75" y="748.75" width="85.67" height="76.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
